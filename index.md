@@ -142,6 +142,3 @@ This proposal modernizes the U.S. tax system by simplifying compliance, eliminat
 With careful implementation, it could increase fairness, reduce complexity, and align the tax system with a modern economy and society.
 
 ---
-
-Upper-Income	Pays tax on all income, including capital gains and income previously above the Social Security cap. May benefit from lower overall rate and elimination of corporate tax.
-Top 1%	No more capital gains preference, but large gains from eliminated corporate tax and single rate system. Pays more on labor income.
